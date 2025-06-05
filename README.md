@@ -1,2 +1,4 @@
 # Another-Repo
-just for checking my git and github knowledge
+Just for checking my git and github knowledge
+<br>
+Author -Lakshay kumar
